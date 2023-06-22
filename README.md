@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M.Mustafa KAPICI</h1>
 <h3 align="center">I am student at Toros university. I am founder of AILAYZER.</h3>
 
-- 🔭 I’m currently working on [AILAYZER](ailayzer.tech)
+- 🔭 I’m currently working on [AILAYZER](https://www.ailayzer.tech)
 
 - 🌱 I’m currently learning **C# .NET Core**
 
-- 👨‍💻 All of my skills are available at [mustafakapici.me](mustafakapici.me)
+- 👨‍💻 All of my skills are available at [https://mustafakapici.me](https://mustafakapici.me)
 
 - 📝 I regularly write articles on [https://medium.com/@Kolay.Zeka](https://medium.com/@Kolay.Zeka)
 
