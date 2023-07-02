@@ -145,19 +145,9 @@
 
 <img src="https://raw.githubusercontent.com/mmustafakapici/mmustafakapici/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mmustafakapici/count.svg?"  />
-</div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/d25tbqe1wr5uo52anjkqywb5o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ### Blog Post
 
