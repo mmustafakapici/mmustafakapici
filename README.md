@@ -109,9 +109,9 @@
 
 ###
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmustafakapici&show_icons=true&locale=en&layout=compact" alt="mmustafakapici" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmustafakapici&show_icons=true&locale=en" alt="mmustafakapici" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafakapici&" alt="mmustafakapici" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmustafakapici&show_icons=true&locale=en&layout=compact" alt="mmustafakapici" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmustafakapici&show_icons=true&locale=en" alt="mmustafakapici" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafakapici&" alt="mmustafakapici" />
 </div>
 
 
