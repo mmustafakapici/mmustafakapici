@@ -134,23 +134,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mmustafakapici&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
-
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mmustafakapici/mmustafakapici/output/snake.svg" alt="Snake animation" />
-
-
-###
-
 
 ### Blog Post
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Kolay.Zeka&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kolay.zeka" alt="Layout with last medium posts"  />
 </div>
