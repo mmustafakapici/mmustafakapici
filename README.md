@@ -48,8 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="12" />
+  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -94,8 +94,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="30" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
-  <img width="12" />
+
+  
   <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
