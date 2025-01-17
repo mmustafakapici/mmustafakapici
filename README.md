@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C# .NET Core**
 
-- 👨‍💻 All of my skills are available at [https://mustafakapici.me](https://mustafakapici.me)
+- 👨‍💻 All of my skills are available at [https://mustafakapici.software](https://mustafakapici.software)
 
 - 📝 I regularly write articles on [https://medium.com/@Kolay.Zeka](https://medium.com/@Kolay.Zeka)
 
-- 💬 Ask me about **Tensorflow, Deep learning**
+- 💬 Ask me about **TensorFlow, PyTorch,  Deep learning**
 
 - 📫 How to reach me **m.mustafakapici@gmail.com**
 
